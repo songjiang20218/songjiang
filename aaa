@@ -1,0 +1,485 @@
+{
+  "en": {
+    "tabbar": {
+      "tab1": "Locate",
+      "tab2": "Friends",
+      "tab3": "Settings"
+    },
+    "map": {
+      "myself": "Me",
+      "btn_history": "History",
+      "btn_refresh": "Refresh",
+      "btn_location": "Go find",
+      "search_title": "Find Friend",
+      "search_detail": "Just need friends’ authorization to get their locations without them downloading the app  ",
+      "placeholder_remark": "Name",
+      "placeholder_phone": "Phone Number",
+      "search_btn": "Locate",
+      "prompt1": "Phone Number ",
+      "prompt2": "Name ",
+      "prompt3": "The friend already exists ",
+      "more_title": "More Actions",
+      "more_cancel": "Cancel",
+      "more_copy": "Copy",
+      "more_share": "Update location ",
+      "more_navigate": "Navigation ",
+      "mapArr": [
+        "Apple Map",
+        " Amap ",
+        " Tencent Map ",
+        " Baidu Map ",
+        " Google Map"
+      ]
+    },
+    "friend": {
+      "title": "My Friends",
+      "nofriend": "No friends yet, go add one?",
+      "add": "Add",
+      "get": "Locate",
+      "del": "Delete",
+      "prompt_title": "Prompt ",
+      "prompt_content": "Are you sure to delete this friend?",
+      "prompt_cancel": "Cancel",
+      "prompt_confirm": "OK",
+      "del_success": "successfully deleted",
+      "current": "Current Position "
+    },
+    "set": {
+      "title": "Settings",
+      "vip_title": "Locate Friends",
+      "vip_detail": "Easily find people you care about",
+      "vip_lock": "Unlock Now",
+      "vip_locked": "Unlocked ",
+      "restore": "Restore",
+      "myAvatar": "My Icon",
+      "privacy": "Privacy Policy ",
+      "service": "Terms of Use ",
+      "contact": "Contact Us",
+      "version": "Version ",
+      "restore_fail": "restore failed ",
+      "restore_ok": "restored ",
+      "changeAvatar": "Change Avatar",
+      "cancel": "Cancel",
+      "camera": "Camera ",
+      "gallery": "Select from album",
+      "confirm": "OK",
+      "prompt": "Prompt",
+      "prompt_camera": "You have denied this app to use your camera permission, go to settings to open permission",
+      "prompt_album": "You have denied this app to use your album permission, go to settings to open permission"
+    },
+    "fDetail": {
+      "edit": "Edit",
+      "phone": "Phone",
+      "remark": "Remark",
+      "current": "Current Position ",
+      "refresh": "Refresh",
+      "del": "Delete",
+      "look": "View Location ",
+      "distance": " Apart ",
+      "del_confirm": "Are you sure to delete friends?",
+      "del_title": "Delete",
+      "del_cancel": "Cancel",
+      "del_sure": "OK"
+    },
+    "fAdd": {
+      "title": "Add Friends",
+      "phone": "Phone",
+      "remark": "Remark",
+      "confirm": "OK",
+      "placeholder_phone": "Enter friend's phone number ",
+      "placeholder_remark": "Enter friend's name",
+      "prompt1": "added",
+      "prompt2": "Phone Number",
+      "prompt3": "Name",
+      "prompt4": "The friend already exists "
+    },
+    "fEdit": {
+      "save": "Save",
+      "phone": "Phone",
+      "remark": "Remark",
+      "current": "Current Position ",
+      "refresh": "Refresh",
+      "del": "Delete",
+      "look": "View Location",
+      "placeholder_remark": "Name",
+      "placeholder_phone": "Phone",
+      "changeAvatar": "Change Avatar",
+      "cancel": "Cancel",
+      "camera": "Camera ",
+      "gallery": "Select from album ",
+      "prompt1": "The friend already exists ",
+      "confirm": "OK",
+      "prompt": "Prompt",
+      "prompt_camera": "You have denied this app to use your camera permission, go to settings to open permission",
+      "prompt_album": "You have denied this app to use your album permission, go to settings to open permission"
+    },
+    "purchase": {
+      "restore": "Restore",
+      "title": " Unlock All Feature ",
+      "feature": [
+        "Get the current locations of friends ",
+        " Unlimited access to friends' locations "
+      ],
+      "continue": "Continue",
+      "products": [
+        {
+          "name": "Weekly",
+          "feature": "Lowest price",
+          "price": "$5.99",
+          "id": "songjiang.location.week"
+        },
+        {
+          "name": "Monthly",
+          "feature": "Most popular",
+          "price": "$9.99",
+          "id": "songjiang.location.month"
+        },
+        {
+          "name": "Yearly",
+          "feature": "Most favorable",
+          "price": "$58.99",
+          "id": "songjiang.location.year"
+        }
+      ],
+      "remind1": "By signing up you agree to ",
+      "remind2": "our",
+      "remind3": " Terms of Use ",
+      "remind4": "and",
+      "remind5": " Privacy Policy ",
+      "failed": "Payment failed",
+      "succeed": "payment successful",
+      "restore_fail": "Restore failed",
+      "restore_ok": "Restored"
+    },
+    "contacts": {
+      "title": "Contacts",
+      "placeholder_search": "Search for contacts ",
+      "empty": "No contacts ",
+      "model_title": "The APP contacts permission is not turned on, go to setting?",
+      "model_cancel": "Cancel",
+      "model_confirm": "OK"
+    }
+  },
+  "zh-Hans": {
+    "tabbar": {
+      "tab1": "定位",
+      "tab2": "好友",
+      "tab3": "设置"
+    },
+    "map": {
+      "myself": "我自己",
+      "btn_history": "历史定位",
+      "btn_refresh": "刷新定位",
+      "btn_location": "去找他",
+      "search_title": "搜索好友",
+      "search_detail": "好友无需下载，获取好友位置需要对方授权",
+      "placeholder_remark": "输入好友备注",
+      "placeholder_phone": "输入好友手机号",
+      "search_btn": "获取定位",
+      "prompt1": "请输入好友手机号",
+      "prompt2": "请输入好友备注",
+      "prompt3": "该好友已存在",
+      "more_title": "更多操作",
+      "more_cancel": "取消",
+      "more_copy": "复制",
+      "more_share": "更新位置",
+      "more_navigate": "导航",
+      "mapArr": [
+        "apple地图",
+        "高德地图",
+        "腾讯地图",
+        "百度地图",
+        "谷歌地图"
+      ]
+    },
+    "friend": {
+      "title": "我的好友",
+      "nofriend": "还没有好友呢,快去添加吧",
+      "add": "添加好友",
+      "get": "获取位置",
+      "del": "删除",
+      "prompt_title": "提示",
+      "prompt_content": "确定要删除该好友吗？",
+      "prompt_cancel": "取消",
+      "prompt_confirm": "确定",
+      "del_success": "删除成功",
+      "current": "当前位置"
+    },
+    "set": {
+      "title": "设置",
+      "vip_title": "定位好友",
+      "vip_detail": "轻松找到你关心的人",
+      "vip_lock": "立即解锁",
+      "vip_locked": "已解锁",
+      "restore": "恢复购买",
+      "myAvatar": "我的头像",
+      "privacy": "隐私政策",
+      "service": "服务条款",
+      "contact": "联系我们",
+      "version": "版本号",
+      "restore_fail": "恢复失败",
+      "restore_ok": "恢复成功",
+      "changeAvatar": "更换头像",
+      "cancel": "取消",
+      "camera": "拍照",
+      "gallery": "从相册选择",
+      "confirm": "确定",
+      "prompt": "提示",
+      "prompt_camera": "您已拒绝此app使用您的相机权限，如需继续更换头像请前往设置页面打开此权限",
+      "prompt_album": "您已拒绝此app读取您的相册文件，如需继续更换头像请前往设置页面打开此权限"
+    },
+    "fDetail": {
+      "edit": "编辑",
+      "phone": "电话",
+      "remark": "备注",
+      "current": "当前位置",
+      "refresh": "刷新定位",
+      "del": "删除",
+      "look": "查看位置",
+      "distance": "相距",
+      "del_confirm": "确定要删除好友吗？",
+      "del_title": "删除好友",
+      "del_cancel": "取消",
+      "del_sure": "确定"
+    },
+    "fAdd": {
+      "title": "添加好友",
+      "phone": "手机号",
+      "remark": "备注",
+      "confirm": "确定",
+      "placeholder_phone": "输入好友手机号",
+      "placeholder_remark": "输入备注",
+      "prompt1": "添加成功",
+      "prompt2": "请输入好友手机号",
+      "prompt3": "请输入好友备注",
+      "prompt4": "该好友已存在"
+    },
+    "fEdit": {
+      "save": "保存",
+      "phone": "电话",
+      "remark": "备注",
+      "current": "当前位置",
+      "refresh": "刷新定位",
+      "del": "删除",
+      "look": "查看位置",
+      "placeholder_remark": "姓名",
+      "placeholder_phone": "手机号",
+      "changeAvatar": "更换头像",
+      "cancel": "取消",
+      "camera": "拍照",
+      "gallery": "从相册选择",
+      "prompt1": "该好友已存在",
+      "confirm": "确定",
+      "prompt": "提示",
+      "prompt_camera": "您已拒绝此app使用您的相机权限，如需继续更换头像请前往设置页面打开此权限",
+      "prompt_album": "您已拒绝此app读取您的相册文件，如需继续更换头像请前往设置页面打开此权限"
+    },
+    "purchase": {
+      "restore": "恢复购买",
+      "title": "解锁所有访问限制",
+      "feature": [
+        "获得好友当前定位",
+        "无限制获取好友位置"
+      ],
+      "continue": "继续",
+      "products": [
+        {
+          "name": "每周",
+          "feature": "最受欢迎",
+          "price": "$5.99",
+          "id": "songjiang.location.week"
+        },
+        {
+          "name": "每月",
+          "feature": "推荐",
+          "price": "$9.99",
+          "id": "songjiang.location.month"
+        },
+        {
+          "name": "每年",
+          "feature": "最实惠",
+          "price": "$58.99",
+          "id": "songjiang.location.year"
+        }
+      ],
+      "remind1": "购买即表示您同意",
+      "remind2": "我们的",
+      "remind3": " 服务条款 ",
+      "remind4": "和",
+      "remind5": " 隐私政策 ",
+      "failed": "购买失败，请重试！",
+      "succeed": "购买成功",
+      "restore_fail": "恢复失败",
+      "restore_ok": "恢复成功"
+    },
+    "contacts": {
+      "title": "通讯录",
+      "placeholder_search": "搜索联系人",
+      "empty": "通讯录暂无联系人",
+      "model_title": "APP通讯录权限没有开启，是否开启？",
+      "model_cancel": "取消",
+      "model_confirm": "确定"
+    }
+  },
+  "zh-Hant": {
+    "tabbar": {
+      "tab1": "定位",
+      "tab2": "好友",
+      "tab3": "設置"
+    },
+    "map": {
+      "myself": "我自己",
+      "btn_history": "歷史定位",
+      "btn_refresh": "刷新定位",
+      "btn_location": "去找他",
+      "search_title": "搜索好友",
+      "search_detail": "好友無需下載，獲取好友位置需要對方授權",
+      "placeholder_remark": "輸入好友備註",
+      "placeholder_phone": "輸入好友手機號",
+      "search_btn": "獲取定位",
+      "prompt1": "請輸入好友手機號",
+      "prompt2": "請輸入好友備註",
+      "prompt3": "該好友已存在",
+      "more_title": "更多操作",
+      "more_cancel": "取消",
+      "more_copy": "複製",
+      "more_share": "更新位置",
+      "more_navigate": "導航",
+      "mapArr": [
+        "apple地圖",
+        "高德地圖",
+        "騰訊地圖",
+        "百度地圖",
+        "谷歌地圖"
+      ]
+    },
+    "friend": {
+      "title": "我的好友",
+      "nofriend": "還沒有好友呢,快去添加吧",
+      "add": "添加好友",
+      "get": "獲取位置",
+      "del": "刪除",
+      "prompt_title": "提示",
+      "prompt_content": "確定要刪除該好友嗎？",
+      "prompt_cancel": "取消",
+      "prompt_confirm": "確定",
+      "del_success": "刪除成功",
+      "current": "當前位置"
+    },
+    "set": {
+      "title": "設置",
+      "vip_title": "定位好友",
+      "vip_detail": "輕鬆找到你關心的人",
+      "vip_lock": "立即解鎖",
+      "vip_locked": "已解鎖",
+      "restore": "恢復購買",
+      "myAvatar": "我的頭像",
+      "privacy": "隱私政策",
+      "service": "服務條款",
+      "contact": "聯繫我們",
+      "version": "版本號",
+      "restore_fail": "恢復失敗",
+      "restore_ok": "恢復成功",
+      "changeAvatar": "更換頭像",
+      "cancel": "取消",
+      "camera": "拍照",
+      "gallery": "從相冊選擇",
+      "confirm": "確定",
+      "prompt": "提示",
+      "prompt_camera": "您已拒絕此app使用您的相機權限，如需繼續更換頭像請前往設置頁面打開此權限",
+      "prompt_album": "您已拒絕此app讀取您的相冊文件，如需繼續更換頭像請前往設置頁面打開此權限"
+    },
+    "fDetail": {
+      "edit": "編輯",
+      "phone": "電話",
+      "remark": "備註",
+      "current": "當前位置",
+      "refresh": "刷新定位",
+      "del": "刪除",
+      "look": "查看位置",
+      "distance": "相距",
+      "del_confirm": "確定要刪除好友嗎？",
+      "del_title": "刪除好友",
+      "del_cancel": "取消",
+      "del_sure": "確定"
+    },
+    "fAdd": {
+      "title": "添加好友",
+      "phone": "手機號",
+      "remark": "備註",
+      "confirm": "確定",
+      "placeholder_phone": "輸入好友手機號",
+      "placeholder_remark": "輸入備註",
+      "prompt1": "添加成功",
+      "prompt2": "請輸入好友手機號",
+      "prompt3": "請輸入好友備註",
+      "prompt4": "該好友已存在"
+    },
+    "fEdit": {
+      "save": "保存",
+      "phone": "電話",
+      "remark": "備註",
+      "current": "當前位置",
+      "refresh": "刷新定位",
+      "del": "刪除",
+      "look": "查看位置",
+      "placeholder_remark": "姓名",
+      "placeholder_phone": "手機號",
+      "changeAvatar": "更換頭像",
+      "cancel": "取消",
+      "camera": "拍照",
+      "gallery": "從相冊選擇",
+      "prompt1": "該好友已存在",
+      "confirm": "確定",
+      "prompt": "提示",
+      "prompt_camera": "您已拒絕此app使用您的相機權限，如需繼續更換頭像請前往設置頁面打開此權限",
+      "prompt_album": "您已拒絕此app讀取您的相冊文件，如需繼續更換頭像請前往設置頁面打開此權限"
+    },
+    "purchase": {
+      "restore": "恢復購買",
+      "title": "解鎖所有訪問限制",
+      "feature": [
+        "獲得好友當前定位",
+        "無限制獲取好友位置"
+      ],
+      "continue": "繼續",
+      "products": [
+        {
+          "name": "每週",
+          "feature": "最受歡迎",
+          "price": "$5.99",
+          "id": "songjiang.location.week"
+        },
+        {
+          "name": "每月",
+          "feature": "推薦",
+          "price": "$9.99",
+          "id": "songjiang.location.month"
+        },
+        {
+          "name": "每年",
+          "feature": "最實惠",
+          "price": "$58.99",
+          "id": "songjiang.location.year"
+        }
+      ],
+      "remind1": "購買即表示您同意",
+      "remind2": "我們的",
+      "remind3": " 服務條款 ",
+      "remind4": "和",
+      "remind5": " 隱私政策 ",
+      "failed": "購買失敗，請重試！",
+      "succeed": "購買成功",
+      "restore_fail": "恢復失敗",
+      "restore_ok": "恢復成功"
+    },
+    "contacts": {
+      "title": "通訊錄",
+      "placeholder_search": "搜索聯繫人",
+      "empty": "通訊錄暫無聯繫人",
+      "model_title": "APP通訊錄權限沒有開啟，是否開啟？",
+      "model_cancel": "取消",
+      "model_confirm": "確定"
+    }
+  }
+}
